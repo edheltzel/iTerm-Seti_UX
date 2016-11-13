@@ -10,7 +10,7 @@ The ZSH theme is inspired by the `robbyrussel` theme and the `poncho` and origin
 ### Screenshots
 
 ![error handling and git support](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/error-handle-with-git-support.png)
-![zsh autocomplete and directory colors](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/directory-colors-zsh-syntax-highlighting.png)
+![zsh autocomplete and directory colors](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/zsh-autocomplete-with-dir-colors.png)
 ![iterm color settings](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/iterm2-colors.png)
 ![iterm text settings](https://github.com/ginfuru/RainCoat/blob/master/images/iterm2-text.png)
 
