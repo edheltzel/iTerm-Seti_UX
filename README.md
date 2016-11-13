@@ -15,4 +15,6 @@ The screenshot show my Oh My Zsh theme - [BlackRain](https://github.com/ginfuru/
 
 Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](https://github.com/unixorn/awesome-zsh-plugins) 
 
+RainCoat is available for [Hype Termainl](https://hyper.is/) also:
+![hypeterm example](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/error-handle-with-git-support.png)
 ```
