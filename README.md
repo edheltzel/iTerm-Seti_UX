@@ -15,7 +15,7 @@ Seti_UX  _(originally named RainCoat)_ is an iTerm2 color scheme that is inspire
 The screenshot show my Oh My Zsh theme - [BlackRain](https://github.com/ginfuru/ZSH-BlackRain).
 
 Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-
+Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Seti_UX) readme :thumbsups:
 ===
 
 **Available for:**
