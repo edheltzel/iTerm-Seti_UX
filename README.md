@@ -4,7 +4,7 @@ Seti_UX  _(originally named RainCoat)_ is an iTerm2 color scheme that is inspire
 
 Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
-Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Seti_UX) readme :thumbsups:
+Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Seti_UX) readme :thumbsup:
 
 #### Screenshots
 ![zsh-autocomplete](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/error-handle-with-git-support.png)
