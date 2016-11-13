@@ -15,7 +15,7 @@ Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Se
 
 ![iterm colors](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/iterm2-colors.png)
 
-The screenshot show my Oh My Zsh theme - [BlackRain](https://github.com/ginfuru/ZSH-BlackRain).
+The screenshots show my Oh My Zsh theme - [BlackRain](https://github.com/ginfuru/ZSH-BlackRain).
 
 ===
 
