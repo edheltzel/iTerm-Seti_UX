@@ -17,4 +17,4 @@ Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](
 
 RainCoat is available for [Hype Termainl](https://hyper.is/) also:
 ![hypeterm example](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/hypeterm.png)
-```
+
