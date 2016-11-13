@@ -2,6 +2,9 @@
 
 Seti_UX  _(originally named RainCoat)_ is an iTerm2 color scheme that is inspired by the [Seti_UX color scheme for Sublime Text 3](https://github.com/ctf0/Seti_UX).
 
+Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+
+Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Seti_UX) readme :thumbsups:
 
 #### Screenshots
 ![zsh-autocomplete](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/error-handle-with-git-support.png)
@@ -13,9 +16,6 @@ Seti_UX  _(originally named RainCoat)_ is an iTerm2 color scheme that is inspire
 ![iterm colors](https://raw.githubusercontent.com/ginfuru/iTerm-RainCoat/master/images/iterm2-colors.png)
 
 The screenshot show my Oh My Zsh theme - [BlackRain](https://github.com/ginfuru/ZSH-BlackRain).
-
-Thanks to @unixorn :thumbsup: for adding ZSH-BlackRain to [Awesome-ZSH-Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-Thanks to @ctf0 for accepting the PR on the [Seti_UX](https://github.com/ctf0/Seti_UX) readme :thumbsups:
 
 ===
 
