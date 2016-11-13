@@ -9,7 +9,10 @@ The ZSH theme is inspired by the `robbyrussel` theme and the `poncho` and origin
 
 ### Screenshots
 
-
+![error handling and git support](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/error-handle-with-git-support.png)
+![zsh autocomplete and directory colors](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/directory-colors-zsh-syntax-highlighting.png)
+![iterm color settings](https://raw.githubusercontent.com/ginfuru/RainCoat/master/images/iterm2-colors.png)
+![iterm text settings](https://github.com/ginfuru/RainCoat/blob/master/images/iterm2-text.png)
 
 ### Installation
 
@@ -17,13 +20,14 @@ Installing is pretty straight forward and simple.
 
 **step 1**
 
-```shell
-git clone https://github.com/ginfuru/RainCoat.git ~/.oh-my-zsh/custom/themes/RainCoat
+```zsh
+    git clone https://github.com/ginfuru/RainCoat.git ~/.oh-my-zsh/custom/themes/RainCoat
 ```
 
 **step 2** edit your `.zshrc` file
+
 ```zsh
-ZSH_THEMS="RainCoat"
+    ZSH_THEMS="RainCoat"
 ```
 
 **step 3**
@@ -32,6 +36,7 @@ Double click `RainCoat.itermcolors` to install the iTerm2 color scheme
 ##### Updating
 
 Just run 
+
 ```zsh 
-cd ~/.oh-my-zsh/custom/themes/RainCoat && git pull --rebase
-``
+    cd ~/.oh-my-zsh/custom/themes/RainCoat && git pull --rebase
+```
